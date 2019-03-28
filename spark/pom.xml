@@ -345,6 +345,15 @@
       <version>3.2.0</version>
     </dependency>
 
+    <dependency>
+      <groupId>commons-beanutils</groupId>
+      <artifactId>commons-beanutils</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+    </dependency>
+
     <!-- scala stuff -->
 
     <dependency>
